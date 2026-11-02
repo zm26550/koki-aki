@@ -1,2 +1,2 @@
-function sayhello68() 
-{alert('Hello, ' + document.getElementById('who68').innerHTML + '!');}
+function sayhello69() 
+{alert('Hello, ' + document.getElementById('who69').innerHTML + '!');}
