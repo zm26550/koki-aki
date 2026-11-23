@@ -1,8 +1,3 @@
-img.imagechange11
+img.
+imagechange
 {width: 500px; height: 200px;}
-img.imagechange22
-{width: 500px; height: 200px;}
-function imgchange11() 
-{document.getElementById('logo').src='./image/julove.jpg';}
-function imgchange22() 
-{document.getElementById('logo').src='./image/josai.jpg';}
