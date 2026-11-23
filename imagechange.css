@@ -3,6 +3,6 @@ img.imagechange11
 img.imagechange22
 {width: 500px; height: 200px;}
 function imgchange11() 
-{document.getElementById('logo').src='./image/switch on.png';}
+{document.getElementById('logo').src='./image/switch julove.jpg';}
 function imgchange22() 
-{document.getElementById('logo').src='./image/switch off.png';}
+{document.getElementById('logo').src='./image/switch josai.jpg';}
